@@ -1,19 +1,19 @@
 
 <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&layout=compact"></p>
-<h1 align="center">Hi 👋, I'm Dilshodbek</h1>
+<h1 align="center">Hi 👋, I'm Vazira</h1>
 <h3 align="center">A passionate backend developer from Uzbekistan</h3>
 <p align="center">
 
 
 - 🔭 Self Employed
 - 💬 Ask me about **Python, Django, Sql, PostgreSQL, Telegram Bot**
-- 📫 How to reach me [**absaitovdev@gmail.com**](mailto:absaitovdev@gmail.com)
+- 📫 How to reach me [**asmoholboyeva@gmail.com**](mailto:asmoholboyeva@gmail.com)
 
 
 ![Snake](https://profile-readme-generator.com/assets/snake.svg)
 ## 🌐 Socials:
 
-[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://dilshod_absaitov.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dilshod-absaitov/)  [![Gmail](https://img.shields.io/badge/rvkamronbek@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:absaitovdev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/dilshod3239/)
+[![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://@Hlbv1.t.me/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vazira-holboeva-62a3b52a9/)  [![Gmail](https://img.shields.io/badge/asmoholboyeva@gmail.com-%230077B5.svg?logo=google&logoColor=white)](mailto:asmoholboyeva@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=leetcode&logoColor=ffdd54)](https://leetcode.com/u/Asmo11/)
 
 
 # 💻 Tech Stack:
@@ -54,17 +54,17 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=dilshodev-py&theme=radical">
 <br/>
-<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilshodev-py&theme=tokyonight">
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Holboeva&theme=tokyonight">
 <br/>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=dilshodev-py&theme=tokyonight&hide_border=true" alt="Dilshodbek">
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Holboeva&theme=tokyonight&hide_border=true" alt="Vazira">
 
-<img width="80%" src="https://github-readme-stats.vercel.app/api?username=dilshodev-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+<img width="80%" src="https://github-readme-stats.vercel.app/api?username=Holboeva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dilshodev-py&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+<img width="80%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Holboeva&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </p>
 <br/>
 ## 👁️ Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{dilshodev-py}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{Holboeva}/count.svg"/>
 </p>
